@@ -1,0 +1,2 @@
+# curencybot
+currency rates 
